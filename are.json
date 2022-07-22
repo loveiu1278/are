@@ -38,7 +38,7 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 11799,
+                "size": 11812,
                 "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
                 "url": "https://raw.githubusercontent.com/loveiu1278/1.12.2-library/main/library/1.12.2-forge-14.23.5.2860.json"
               }
